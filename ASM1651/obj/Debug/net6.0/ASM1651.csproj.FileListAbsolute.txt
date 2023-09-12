@@ -1,0 +1,15 @@
+C:\Users\Tien Thanh\source\repos\ASM1651\obj\Debug\net6.0\ASM1651.csproj.AssemblyReference.cache
+C:\Users\Tien Thanh\source\repos\ASM1651\obj\Debug\net6.0\ASM1651.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tien Thanh\source\repos\ASM1651\obj\Debug\net6.0\ASM1651.AssemblyInfoInputs.cache
+C:\Users\Tien Thanh\source\repos\ASM1651\obj\Debug\net6.0\ASM1651.AssemblyInfo.cs
+C:\Users\Tien Thanh\source\repos\ASM1651\obj\Debug\net6.0\ASM1651.csproj.CoreCompileInputs.cache
+C:\Users\Tien Thanh\source\repos\ASM1651\bin\Debug\net6.0\ASM1651.exe
+C:\Users\Tien Thanh\source\repos\ASM1651\bin\Debug\net6.0\ASM1651.deps.json
+C:\Users\Tien Thanh\source\repos\ASM1651\bin\Debug\net6.0\ASM1651.runtimeconfig.json
+C:\Users\Tien Thanh\source\repos\ASM1651\bin\Debug\net6.0\ASM1651.dll
+C:\Users\Tien Thanh\source\repos\ASM1651\bin\Debug\net6.0\ASM1651.pdb
+C:\Users\Tien Thanh\source\repos\ASM1651\obj\Debug\net6.0\ASM1651.dll
+C:\Users\Tien Thanh\source\repos\ASM1651\obj\Debug\net6.0\refint\ASM1651.dll
+C:\Users\Tien Thanh\source\repos\ASM1651\obj\Debug\net6.0\ASM1651.pdb
+C:\Users\Tien Thanh\source\repos\ASM1651\obj\Debug\net6.0\ASM1651.genruntimeconfig.cache
+C:\Users\Tien Thanh\source\repos\ASM1651\obj\Debug\net6.0\ref\ASM1651.dll
